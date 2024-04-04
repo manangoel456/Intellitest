@@ -1,0 +1,21 @@
+,(1) CATTAGCT 
+,(2) TACGAAGT 
+,(3) GTACTTAC 
+,(4) ATGCGACT 
+,Q1. If one strand of a DNA has the sequence ATGCTTCA, sequence of the bases in complementary strand is:,(1) CATTAGCT 
+,(2) TACGAAGT 
+,(3) GTACTTAC 
+,(4) ATGCGACT 
+,Q2. Given below are two statements :,(1) CATTAGCT 
+,(2) TACGAAGT 
+,(3) GTACTTAC 
+,(4) ATGCGACT 
+,Q3. Given below are two statements:,(1) CATTAGCT 
+,(2) TACGAAGT 
+,(3) GTACTTAC 
+,(4) ATGCGACT 
+,Q4. Ionic reactions with organic compounds proceed through:,(1) CATTAGCT 
+,(2) TACGAAGT 
+,(3) GTACTTAC 
+,(4) ATGCGACT 
+,

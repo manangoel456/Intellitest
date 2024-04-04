@@ -32,7 +32,7 @@
                     for (var i = 0; i < users.length; i++) {
                         var user = users[i].split(',');
                         if (user[0] === email && user[1] === password) {
-                            window.location.href = 'dashboard.html';
+                            window.location.href = `http://localhost/dashboard.php?email=${email}&phno=${user[3]}&name=${user[2]}`;
                             return;
                         }
                     }

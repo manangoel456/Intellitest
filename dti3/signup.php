@@ -7,6 +7,7 @@
 </head>
 <body>
     <div class="container">
+        
         <div class="form-container">
             <h2>Begin your journey</h2>
             <form id="signupForm" method="post">
@@ -27,7 +28,7 @@
             <p>Returning user? <a href="http://localhost/signin.php">Log in here</a></p>
         </div>
         <div class="image-container">
-        <img src="E:\Python coding\dti3\image.png" alt="Signup Image">        </div>
+        <img src="image.png" alt="Signup Image">        </div>
     </div>
 </body>
 </html>
