@@ -74,7 +74,7 @@ border-radius: 4px;
 <h2><?php echo htmlspecialchars($_GET['name']); ?></h2>
 <p class="email">Email id: <?php echo htmlspecialchars($_GET['email']); ?></p>
 <p class="phone">Phone no. <?php echo htmlspecialchars($_GET['phno']); ?></p>
-<button class="button" onclick="location.href='mock_test.php'">Attempt Mock Test</button>
+<button class="button" onclick="location.href='select_subject.html'">Attempt Mock Test</button>
 </div>
 </div>
 

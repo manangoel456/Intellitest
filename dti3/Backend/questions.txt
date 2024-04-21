@@ -1,0 +1,47 @@
+Q1. If one strand of a DNA has the sequence ATGCTTCA, sequence of the bases in complementary strand is;
+(1) CATTAGCT 
+(2) TACGAAGT 
+(3) GTACTTAC 
+(4) ATGCGACT 
+Ans. (2)
+Q2. Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).
+ Assertion (A) : Haloalkanes react with KCN to form alkyl cyanides as a main product while with AgCN form isocyanide as the main product. 
+Reason (R) : KCN and AgCN both are highly ionic compounds. In the light of the above statement, choose the most appropriate answer from the options given below; 
+(1) (A) is correct but (R) is not correct 
+(2) Both (A) and (R) are correct but (R) is not the correct explanation of (A) 
+(3) (A) is not correct but (R) is correct 
+(4) Both (A) and (R) are correct and (R) is the correct explanation of (A) 
+Ans. (1)
+Q3. Given below are two statements: 
+Statement (I): A solution of [Ni(H2O)6] 2+ is green in colour. 
+Statement (II): A solution of [Ni(CN)4] 2– is colourless. In the light of the above statements, choose the most appropriate answer from the options given below; 
+(1) Both Statement I and Statement II are incorrect 
+(2) Both Statement I and Statement II are correct 
+(3) Statement I is incorrect but Statement II is correct 
+(4) Statement I is correct but Statement II is incorrect 
+Ans. (2)
+Q4. Ionic reactions with organic compounds proceed through:
+ (A) Homolytic bond cleavage 
+(B) Heterolytic bond cleavage 
+(C) Free radical formation 
+(D) Primary free radical 
+(E) Secondary free radical 
+Choose the correct answer from the options given below;
+(1) (A) only 
+(2) (C) only 
+(3) (B) only 
+(4) (D) and (E) only
+Ans. (3)
+Q5. We have three aqueous solutions of NaCl labelled as ‘A’, ‘B’ and ‘C’ with concentration 0.1 M, 0.01M & 0.001 M, respectively. The value of van t’ Haft factor (i) for these solutions will be in the order. ;
+(1) iA < iB < iC 
+(2) iA < iC < iB 
+(3) iA = iB = iC 
+(4) iA > iB > iC 
+Ans. (1)
+
+Q7.  Which of the following complex is homoleptic;
+ (1) [Ni(CN)4] ^2– 
+(2) [Ni(NH3)2Cl2] 
+(3) [Fe(NH3)4Cl2] + 
+(4) [Co(NH3)4Cl2] + 
+Ans. (1)

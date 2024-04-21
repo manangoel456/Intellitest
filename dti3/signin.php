@@ -6,7 +6,7 @@
 
 </head>
 <body>
-    <button id="signupButton" onclick="window.location.href='http://localhost/signup.php'">Signup</button>
+    <button id="signupButton" onclick="window.location.href='signup.php'">Signup</button>
 
     <h2>Intellitest</h2>
     <h3>Enter your details to Sign in to your account</h3>
@@ -32,7 +32,7 @@
                     for (var i = 0; i < users.length; i++) {
                         var user = users[i].split(',');
                         if (user[0] === email && user[1] === password) {
-                            window.location.href = `http://localhost/dashboard.php?email=${email}&phno=${user[3]}&name=${user[2]}`;
+                            window.location.href = `dashboard.php?email=${email}&phno=${user[3]}&name=${user[2]}`;
                             return;
                         }
                     }

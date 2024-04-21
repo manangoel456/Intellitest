@@ -22,10 +22,10 @@
                 <label for="password">Password (Enter at least 8+ characters):</label><br>
                 <input type="password" id="password" name="password"><br>
                 <input type="checkbox" id="terms" name="terms">
-                <label for="terms">By signing up, I agree with the Terms of Use & Privacy Policy</label><br>
+                <label for="terms">By signing up, I agree with the <a href="tnc.php">Terms of Use & Privacy Policy</a></label><br>
                 <input type="submit" value="Register">
             </form>
-            <p>Returning user? <a href="http://localhost/signin.php">Log in here</a></p>
+            <p>Returning user? <a href="signin.php">Log in here</a></p>
         </div>
         <div class="image-container">
         <img src="image.png" alt="Signup Image">        </div>
